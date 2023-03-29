@@ -10,17 +10,17 @@ global.owner = ['6287819014791']
 global.mods = ['6287819014791'] 
 global.prems = ['6287819014791']
 /*Nomor Owner & payment*/
-global.nameowner = 'Tio'
+global.nameowner = 'Aldy OWNER BOT'
 global.numberowner = '6287819014791' 
 global.mail = 'youaldi2@gmail.com' //enter your email 🗿
 global.dana = '6285697175057'
 global.pulsa = '6287819014791'
 global.gopay = '6285697175057'
 /*Nama Bot & Grouplink*/
-global.namebot = 'RTXZY-MD'
-global.gc = 'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
+global.namebot = 'XYZ BOTZ'
+global.gc = 'https://yandex.com'
+global.web = 'https://github.com/aldimoder'
+global.instagram = 'https://instagram.com/aldsatanic666'
 /*global wm*/
 global.lolkey = 'rey2k22'
 global.zenzkey = 'BagasPrdn'
