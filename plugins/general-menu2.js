@@ -186,13 +186,13 @@ const ftroli = {
                             surface : 1,
                             message: '© STN 666',
                             orderTitle: 'MENU',
-                            thumbnail: await (await fetch('https://telegra.ph/file/f4063ab3071f5c4af765a.png')).buffer(),
+                            thumbnail: await (await fetch('https://telegra.ph/file/cd6c8cda1cdc5a82c8d03.jpg')).buffer(),
                             sellerJid: '0@s.whatsapp.net'
           
                           }
                         }
                       }
-await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/9017b72bb209a0dadb9f5.png')).buffer(),  '•━━━━ ❮❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯❯ ━━━━━•', text, 'BACK', '.MENU', m, {  
+await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/cd6c8cda1cdc5a82c8d03.jpg')).buffer(),  ' MENU BOT ', text, 'BACK', '.MENU', m, {  
       quoted: ftroli,  
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
@@ -200,8 +200,8 @@ await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/901
               body: '© STN 666', 
               description: 'MADE WITH STN 666', 
               mediaType: 2,  
-            thumbnail: await (await fetch('https://telegra.ph/file/dc5a67d724b016574129b.jpg')).buffer(), 
-           mediaUrl: `https://www.facebook.com/tio.permana.50999` 
+            thumbnail: await (await fetch('https://telegra.ph/file/cd6c8cda1cdc5a82c8d03.jpg')).buffer(), 
+           mediaUrl: `https://youtube.com/@satann666` 
           }  
        }  
       })
